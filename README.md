@@ -11,7 +11,7 @@ colcon build
 source install/setup.bash
 ```
 > run
-> 2.0 2.0 2.0 are random values
+> (2.0 2.0 2.0 are random values)
 ```
 ros2 run py_topic py_pub spiral 2.0 2.0 2.0
 ```
