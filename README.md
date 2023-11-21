@@ -6,3 +6,12 @@
 ```
 colcon build
 ```
+> source your workspace
+```
+source install/setup.bash
+```
+> run
+```
+ros2 run py_topic py_pub spiral 2.0 2.0 2.0
+> 2.0 2.0 2.0 are random values
+```
