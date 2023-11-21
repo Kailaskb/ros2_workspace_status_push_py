@@ -1,0 +1,22 @@
+[0.677s] Invoking command in '/home/xcy/ros2_workspace/src/py_topic': PYTHONPATH=/home/xcy/ros2_workspace/build/py_topic/prefix_override:/home/xcy/ros2_workspace/install/py_topic/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_topic build --build-base /home/xcy/ros2_workspace/build/py_topic/build install --record /home/xcy/ros2_workspace/build/py_topic/install.log --install-scripts $base/lib/py_topic --single-version-externally-managed
+[0.844s] running egg_info
+[0.844s] writing ../../build/py_topic/py_topic.egg-info/PKG-INFO
+[0.845s] writing dependency_links to ../../build/py_topic/py_topic.egg-info/dependency_links.txt
+[0.845s] writing entry points to ../../build/py_topic/py_topic.egg-info/entry_points.txt
+[0.845s] writing requirements to ../../build/py_topic/py_topic.egg-info/requires.txt
+[0.845s] writing top-level names to ../../build/py_topic/py_topic.egg-info/top_level.txt
+[0.873s] reading manifest file '../../build/py_topic/py_topic.egg-info/SOURCES.txt'
+[0.873s] writing manifest file '../../build/py_topic/py_topic.egg-info/SOURCES.txt'
+[0.873s] running build
+[0.874s] running build_py
+[0.874s] running install
+[0.874s] running install_lib
+[0.875s] running install_data
+[0.876s] running install_egg_info
+[0.877s] removing '/home/xcy/ros2_workspace/install/py_topic/lib/python3.8/site-packages/py_topic-0.0.0-py3.8.egg-info' (and everything under it)
+[0.877s] Copying ../../build/py_topic/py_topic.egg-info to /home/xcy/ros2_workspace/install/py_topic/lib/python3.8/site-packages/py_topic-0.0.0-py3.8.egg-info
+[0.878s] running install_scripts
+[0.891s] Installing py_pub_spiral script to /home/xcy/ros2_workspace/install/py_topic/lib/py_topic
+[0.891s] Installing py_sup_spiral script to /home/xcy/ros2_workspace/install/py_topic/lib/py_topic
+[0.891s] writing list of installed files to '/home/xcy/ros2_workspace/build/py_topic/install.log'
+[0.907s] Invoked command in '/home/xcy/ros2_workspace/src/py_topic' returned '0': PYTHONPATH=/home/xcy/ros2_workspace/build/py_topic/prefix_override:/home/xcy/ros2_workspace/install/py_topic/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_topic build --build-base /home/xcy/ros2_workspace/build/py_topic/build install --record /home/xcy/ros2_workspace/build/py_topic/install.log --install-scripts $base/lib/py_topic --single-version-externally-managed

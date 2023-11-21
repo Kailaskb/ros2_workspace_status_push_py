@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing robot_push.egg-info/PKG-INFO
+writing dependency_links to robot_push.egg-info/dependency_links.txt
+writing entry points to robot_push.egg-info/entry_points.txt
+writing requirements to robot_push.egg-info/requires.txt
+writing top-level names to robot_push.egg-info/top_level.txt
+reading manifest file 'robot_push.egg-info/SOURCES.txt'
+writing manifest file 'robot_push.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/xcy/ros2_workspace/install/robot_push/lib/python3.8/site-packages/site.py
+Creating /home/xcy/ros2_workspace/install/robot_push/lib/python3.8/site-packages/robot-push.egg-link (link to .)
+Installing py_pub_spiral script to /home/xcy/ros2_workspace/install/robot_push/lib/robot_push
+Installing py_sub_spriral script to /home/xcy/ros2_workspace/install/robot_push/lib/robot_push
+
+Installed /home/xcy/ros2_workspace/build/robot_push
+running install_data

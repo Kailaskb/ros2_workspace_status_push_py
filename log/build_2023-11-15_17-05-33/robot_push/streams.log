@@ -1,0 +1,19 @@
+[0.864s] Invoking command in '/home/xcy/ros2_workspace/build/robot_push': PYTHONPATH=/home/xcy/ros2_workspace/build/robot_push/prefix_override:/home/xcy/ros2_workspace/install/robot_push/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/xcy/ros2_workspace/build/robot_push/build --no-deps install_data
+[1.054s] running develop
+[1.156s] running egg_info
+[1.156s] writing robot_push.egg-info/PKG-INFO
+[1.156s] writing dependency_links to robot_push.egg-info/dependency_links.txt
+[1.156s] writing entry points to robot_push.egg-info/entry_points.txt
+[1.156s] writing requirements to robot_push.egg-info/requires.txt
+[1.156s] writing top-level names to robot_push.egg-info/top_level.txt
+[1.183s] reading manifest file 'robot_push.egg-info/SOURCES.txt'
+[1.184s] writing manifest file 'robot_push.egg-info/SOURCES.txt'
+[1.185s] running build_ext
+[1.185s] Creating /home/xcy/ros2_workspace/install/robot_push/lib/python3.8/site-packages/site.py
+[1.187s] Creating /home/xcy/ros2_workspace/install/robot_push/lib/python3.8/site-packages/robot-push.egg-link (link to .)
+[1.187s] Installing py_pub_spiral script to /home/xcy/ros2_workspace/install/robot_push/lib/robot_push
+[1.188s] Installing py_sub_spriral script to /home/xcy/ros2_workspace/install/robot_push/lib/robot_push
+[1.188s] 
+[1.188s] Installed /home/xcy/ros2_workspace/build/robot_push
+[1.188s] running install_data
+[1.205s] Invoked command in '/home/xcy/ros2_workspace/build/robot_push' returned '0': PYTHONPATH=/home/xcy/ros2_workspace/build/robot_push/prefix_override:/home/xcy/ros2_workspace/install/robot_push/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/xcy/ros2_workspace/build/robot_push/build --no-deps install_data
